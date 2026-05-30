@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartsecrypt",
+        "uuid": 10355772,
+        "checksum": "de6rpg"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
